@@ -1,0 +1,7 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: green;
+}
+h1, h2, h3 { .subheading
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
